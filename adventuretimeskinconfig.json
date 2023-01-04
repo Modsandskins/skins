@@ -1,0 +1,59 @@
+{
+	"app": {
+		"status": "1",
+		"toolbar": "true",
+		"navigation_drawer": "true",
+		"geolocation": "false",
+		"cache": "true",
+		"open_link_in_external_browser": "false",
+		"privacy_policy_url": "https://sites.google.com/view/funpixstudio/",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=Funpix+Studio",
+		"redirect_url": ""
+	},	
+	"menus": [
+		{
+			"name": "Skins",
+			"type": "url",
+			"icon": "https://app.com.tc/uploads/ic_home.png",
+			"url": "https://app.com.tc/skins/adventuretimeskin/"
+		},
+		{
+			"name": "Instruction",
+			"type": "url",
+			"icon": "https://app.com.tc/uploads/instruction.png",
+			"url": "https://app.com.tc/mods/how-to-do-skin/"
+		},
+
+		{
+			"name": "Privacy Policy",
+			"type": "assets",
+			"icon": "https://app.com.tc/uploads/ic_privacy.png",
+			"url": "privacy_policy.html"
+		}
+	],
+	"notification": {
+		"fcm_notification_topic": "webdroid_topic",
+		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "applovin_max",
+		"backup_ads": "applovin_max",
+		"admob_publisher_id": "pub-1163842525808515",
+		"admob_app_id": "ca-app-pub-1163842525808515~8215460424",
+		"admob_banner_unit_id": "ca-app-pub-1163842525808515/2771562053",
+		"admob_interstitial_unit_id": "ca-app-pub-1163842525808515/5864629253",
+		"admob_native_unit_id": "ca-app-pub-1163842525808515/9179100761",
+		"admob_app_open_ad_unit_id": "ca-app-pub-1163842525808515/1418114522",
+		"startapp_app_id": "0",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "bddb099ecf58d057",
+		"applovin_interstitial_ad_unit_id": "8a493f9a80e9d011",
+		"applovin_native_ad_manual_unit_id": "423539999e183515",
+		"applovin_banner_zone_id": "0",
+		"applovin_interstitial_zone_id": "0",
+		"interstitial_ad_interval": 1
+	}	
+}
