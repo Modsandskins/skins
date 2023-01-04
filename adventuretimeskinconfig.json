@@ -6,8 +6,8 @@
 		"geolocation": "false",
 		"cache": "true",
 		"open_link_in_external_browser": "false",
-		"privacy_policy_url": "https://sites.google.com/view/funpixstudio/",
-		"more_apps_url": "https://play.google.com/store/apps/developer?id=Funpix+Studio",
+		"privacy_policy_url": "#",
+		"more_apps_url": "#",
 		"redirect_url": ""
 	},	
 	"menus": [
@@ -28,7 +28,7 @@
 			"name": "Privacy Policy",
 			"type": "assets",
 			"icon": "https://app.com.tc/uploads/ic_privacy.png",
-			"url": "privacy_policy.html"
+			"url": "policy.html"
 		}
 	],
 	"notification": {
@@ -36,15 +36,15 @@
 		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
 	},
 	"ads": {
-		"ad_status": "1",
+		"ad_status": "0",
 		"ad_type": "applovin_max",
 		"backup_ads": "applovin_max",
-		"admob_publisher_id": "pub-1163842525808515",
-		"admob_app_id": "ca-app-pub-1163842525808515~8215460424",
-		"admob_banner_unit_id": "ca-app-pub-1163842525808515/2771562053",
-		"admob_interstitial_unit_id": "ca-app-pub-1163842525808515/5864629253",
-		"admob_native_unit_id": "ca-app-pub-1163842525808515/9179100761",
-		"admob_app_open_ad_unit_id": "ca-app-pub-1163842525808515/1418114522",
+		"admob_publisher_id": "pub-1234567891234567",
+		"admob_app_id": "ca-app-pub-1234567891234567~1234567890",
+		"admob_banner_unit_id": "ca-app-pub-1234567891234567/1234567890",
+		"admob_interstitial_unit_id": "ca-app-pub-1234567891234567/1234567890",
+		"admob_native_unit_id": "ca-app-pub-1234567891234567/1234567890",
+		"admob_app_open_ad_unit_id": "ca-app-pub-1234567891234567/1234567890",
 		"startapp_app_id": "0",
 		"unity_game_id": "4089993",
 		"unity_banner_placement_id": "banner",
