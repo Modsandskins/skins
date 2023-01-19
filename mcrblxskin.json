@@ -17,6 +17,7 @@
 			"type": "url",
 			"icon": "https://app.com.tc/uploads/ic_home.png",
 			"url": "https://app.com.tc/skins/rblxskin/"
+			"url_dark": "https://app.com.tc/skins/rblxskin/index2.php"
 		},
 		{
 			"name": "Instruction",
