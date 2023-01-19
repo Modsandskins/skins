@@ -13,7 +13,7 @@
 	},	
 	"menus": [
 		{
-			"name": "Rbx Skins",
+			"name": "Skins",
 			"type": "url",
 			"icon": "https://app.com.tc/uploads/ic_home.png",
 			"url": "https://app.com.tc/skins/rblxskin/"
