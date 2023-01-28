@@ -15,20 +15,20 @@
 		{
 			"name": "Skins",
 			"type": "url",
-			"icon": "https://app.com.tc/uploads/ic_home.png",
-			"url": "https://app.com.tc/skins/kimetsuskin/"
+			"icon": "https://skins1.app.com.tc/assets/modsandskins_home.png",
+			"url": "https://skins1.app.com.tc/skins/kimetsuskin/"
 		},
 		{
 			"name": "Instruction",
 			"type": "url",
-			"icon": "https://app.com.tc/uploads/instruction.png",
-			"url": "https://app.com.tc/mods/how-to-do-skin/"
+			"icon": "https://skins1.app.com.tc/assets/modsandskins_instruction.png",
+			"url": "https://skins1.app.com.tc/assets/how/"
 		},
 
 		{
 			"name": "Privacy Policy",
 			"type": "assets",
-			"icon": "https://app.com.tc/uploads/ic_privacy.png",
+			"icon": "https://skins1.app.com.tc/assets/modsandskins_privacy.png",
 			"url": "policy.html"
 		}
 	],
