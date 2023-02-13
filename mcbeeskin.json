@@ -38,8 +38,8 @@
 	},
 	"ads": {
 		"ad_status": "1",
-		"ad_type": "ironsource",
-		"backup_ads": "ironsource",
+		"ad_type": "unity",
+		"backup_ads": "unity",
 		"applovin_banner_ad_unit_id": "e580737ae224f049",
 		"applovin_interstitial_ad_unit_id": "b3323dd2f4b61965",
 		"applovin_native_ad_manual_unit_id": "0d428544a78e26ba",
