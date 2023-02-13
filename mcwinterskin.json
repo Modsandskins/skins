@@ -38,12 +38,12 @@
 	},
 	"ads": {
 		"ad_status": "1",
-		"ad_type": "applovin_max",
-		"backup_ads": "applovin_max",
+		"ad_type": "unity",
+		"backup_ads": "unity",
 		"applovin_banner_ad_unit_id": "6801aa327e7b02c9",
 		"applovin_interstitial_ad_unit_id": "398a51d647bd192b",
 		"applovin_native_ad_manual_unit_id": "61ea6e0ef6b6635a",
-		"unity_game_id": "4284787",
+		"unity_game_id": "5162996",
 		"unity_banner_placement_id": "Banner_Android",
 		"unity_interstitial_placement_id": "Interstitial_Android",
 		"interstitial_ad_interval": 1
