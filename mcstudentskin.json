@@ -38,8 +38,11 @@
 	},
 	"ads": {
 		"ad_status": "1",
-		"ad_type": "unity",
-		"backup_ads": "unity",
+		"ad_type": "ironsource",
+		"backup_ads": "ironsource",
+		"ironsource_app_key": "18aa1ffad",
+		"ironsource_banner_placement_name": "DefaultBanner",
+		"ironsource_interstitial_placement_name": "DefaultInterstitial",
 		"applovin_banner_ad_unit_id": "08133f268f2ee53d",
 		"applovin_interstitial_ad_unit_id": "5b1c67257d00497a",
 		"applovin_native_ad_manual_unit_id": "69b206429ee9e8ab",
