@@ -37,18 +37,19 @@
 		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
 	},
 	"ads": {
-		"ad_status": "0",
+		"ad_status": "1",
 		"ad_type": "ironsource",
-		"backup_ads": "ironsource",
+		"backup_ads": "startapp",
 		"ironsource_app_key": "18b88cc45",
 		"ironsource_banner_placement_name": "DefaultBanner",
 		"ironsource_interstitial_placement_name": "DefaultInterstitial",
-		"applovin_banner_ad_unit_id": "c5893d51be0ee4d4",
-		"applovin_interstitial_ad_unit_id": "e5da1a8d7e6ceadc",
-		"applovin_native_ad_manual_unit_id": "18ce6fb75a083e1d",
+		"applovin_banner_ad_unit_id": "46a26c070277ddfb",
+		"applovin_interstitial_ad_unit_id": "282209f66a2b86d9",
+		"applovin_native_ad_manual_unit_id": "1955dbe4e0050827",
 		"unity_game_id": "5162996",
 		"unity_banner_placement_id": "Banner_Android",
 		"unity_interstitial_placement_id": "Interstitial_Android",
+		"startapp_app_id": "202661344",
 		"interstitial_ad_interval": 1
 	}
 }

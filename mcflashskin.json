@@ -38,17 +38,18 @@
 	},
 	"ads": {
 		"ad_status": "1",
-		"ad_type": "applovin_max",
-		"backup_ads": "applovin_max",
-		"ironsource_app_key": "18b2dc81d",
+		"ad_type": "ironsource",
+		"backup_ads": "startapp",
+		"ironsource_app_key": "18b3bb70d",
 		"ironsource_banner_placement_name": "DefaultBanner",
 		"ironsource_interstitial_placement_name": "DefaultInterstitial",
-		"applovin_banner_ad_unit_id": "4ea52ef8631e6b0e",
-		"applovin_interstitial_ad_unit_id": "89f88baaa7e6db43",
-		"applovin_native_ad_manual_unit_id": "46ac12efb1d27df4",
+		"applovin_banner_ad_unit_id": "981a5eb28765e8d0",
+		"applovin_interstitial_ad_unit_id": "a689dab12131e5f1",
+		"applovin_native_ad_manual_unit_id": "1e4aeaf84fb748a0",
 		"unity_game_id": "5162996",
 		"unity_banner_placement_id": "Banner_Android",
 		"unity_interstitial_placement_id": "Interstitial_Android",
+		"startapp_app_id": "202530305",
 		"interstitial_ad_interval": 1
 	}
 }
