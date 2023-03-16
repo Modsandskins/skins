@@ -13,7 +13,7 @@
 	},	
 	"menus": [
 		{
-			"name": "Skins",
+			"name": "Ironman Skins",
 			"type": "url",
 			"icon": "https://skins1.app.com.tc/assets/modsandskins_home.png",
 			"url": "https://skins1.app.com.tc/skins/ironmanskin/"
