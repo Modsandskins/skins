@@ -41,7 +41,6 @@
 		"ad_type": "ironsource",
 		"backup_ads": "startapp",
 		"ironsource_app_key": "18b3edc7d",
-		"ironsource_banner_placement_name": "DefaultBanner",
 		"ironsource_interstitial_placement_name": "DefaultInterstitial",
 		"applovin_banner_ad_unit_id": "243f6b439641ce05",
 		"applovin_interstitial_ad_unit_id": "9c74ab4c99feba9b",
