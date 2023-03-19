@@ -38,7 +38,7 @@
 	},
 	"ads": {
 		"ad_status": "1",
-		"ad_type": "ironsource",
+		"ad_type": "applovin_max",
 		"backup_ads": "startapp",
 		"ironsource_app_key": "18b36fee5",
 		"ironsource_banner_placement_name": "DefaultBanner",
